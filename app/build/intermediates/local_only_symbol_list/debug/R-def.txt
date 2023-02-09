@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color bg
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_image_24
+drawable list_icon
+drawable logo
+drawable satellite_filled
+drawable satellite_icon
+drawable satellite_outlined
+font bold
+font description
+font eddacaps
+font light
+font regular
+font semibold
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.JetSpacer
+xml backup_rules
+xml data_extraction_rules

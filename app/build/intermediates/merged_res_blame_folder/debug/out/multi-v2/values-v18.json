@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sakethh.jetspacer.app-mergeDebugResources-69:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/ask/.gradle/caches/transforms-3/7916eb7b243a1fd15a21d0e7c711090a/transformed/appcompat-1.5.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

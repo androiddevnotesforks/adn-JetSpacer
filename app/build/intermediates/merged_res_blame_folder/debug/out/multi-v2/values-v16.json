@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sakethh.jetspacer.app-mergeDebugResources-69:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/ask/.gradle/caches/transforms-3/64c0b2f40a29b76101616968fa651016/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/ask/.gradle/caches/transforms-3/7916eb7b243a1fd15a21d0e7c711090a/transformed/appcompat-1.5.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
